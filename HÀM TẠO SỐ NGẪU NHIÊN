@@ -1,0 +1,10 @@
+
+HÀM TẠO SỐ NGẪU NHIÊN
+
+Function VMK_Random()
+	Dim Max, Min
+	Max = 100
+	Min = 1
+	Randomize
+	VMK_Random = Int((Max - Min + 1) * Rnd + Min)
+End Function
