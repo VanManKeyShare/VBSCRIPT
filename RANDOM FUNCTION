@@ -1,5 +1,5 @@
 
-HÀM TẠO SỐ NGẪU NHIÊN
+RANDOM FUNCTION
 
 Function VMK_Random()
 	Dim Max, Min
